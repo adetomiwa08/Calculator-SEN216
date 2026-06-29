@@ -10,17 +10,11 @@ Built with React Native and Expo
 
 ## Screenshots
 
-### Scientific Calculator
-
-![Scientific Calculator](screenshots/calculate.jpg)
-
-### History
-
-![History](screenshots/history.jpg)
-
-### SCI dropdown
-
-![sci_dropdown](screenshots/sci_dropdown.jpg)
+<p float="left">
+  <img src="screenshots/calculate.jpg" width="250" />
+  <img src="screenshots/history.jpg" width="250" />
+  <img src="screenshots/sci_dropdown.jpg" width="250" />
+</p>
 
 ## Tech Stack
 React Native

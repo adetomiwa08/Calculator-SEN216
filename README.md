@@ -8,6 +8,24 @@ Clean and responsive UI
 Cross-platform support (Android & iOS)
 Built with React Native and Expo
 
+## 📸 Screenshots
+
+### Main Screen
+
+![Main](main.jpg)
+
+### Scientific Calculator
+
+![Scientific Calculator](calculate.jpg)
+
+### History
+
+![History](history.jpg)
+
+### SCI dropdown
+
+![sci_dropdown](sci_dropdown.jpg)
+
 ## Tech Stack
 React Native
 Expo

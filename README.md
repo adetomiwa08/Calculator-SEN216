@@ -10,10 +10,6 @@ Built with React Native and Expo
 
 ## Screenshots
 
-### Main Screen
-
-![Main](screenshots/main.jpg)
-
 ### Scientific Calculator
 
 ![Scientific Calculator](screenshots/calculate.jpg)

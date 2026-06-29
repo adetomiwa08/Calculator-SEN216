@@ -8,7 +8,7 @@ Clean and responsive UI
 Cross-platform support (Android & iOS)
 Built with React Native and Expo
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Screen
 

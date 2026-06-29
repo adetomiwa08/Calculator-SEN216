@@ -12,7 +12,7 @@ Built with React Native and Expo
 
 ### Main Screen
 
-![Main](main.jpg)
+![Main](screenshots/main.jpg)
 
 ### Scientific Calculator
 

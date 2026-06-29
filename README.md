@@ -3,9 +3,13 @@ A cross-platform Scientific Calculator built with React Native and Expo. This pr
 
 ## Features
 Basic arithmetic operations
+
 Scientific calculations
+
 Clean and responsive UI
+
 Cross-platform support (Android & iOS)
+
 Built with React Native and Expo
 
 ## Screenshots
@@ -19,8 +23,11 @@ Built with React Native and Expo
 
 ## Tech Stack
 React Native
+
 Expo
+
 JavaScript
+
 Expo Go
 
 ## Installation

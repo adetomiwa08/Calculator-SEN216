@@ -11,10 +11,10 @@ Built with React Native and Expo
 ## Screenshots
 
 <p float="left">
-  <img src="screenshots/main.jpg" width="250"/>
-  <img src="screenshots/calculate.jpg" width="250" />
-  <img src="screenshots/history.jpg" width="250" />
-  <img src="screenshots/sci_dropdown.jpg" width="250" />
+  <img src="screenshots/main.jpg" width="220"/>
+  <img src="screenshots/calculate.jpg" width="220" />
+  <img src="screenshots/history.jpg" width="220" />
+  <img src="screenshots/sci_dropdown.jpg" width="220" />
 </p>
 
 ## Tech Stack

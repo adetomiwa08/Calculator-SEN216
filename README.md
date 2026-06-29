@@ -20,7 +20,7 @@ Built with React Native and Expo
 
 ### History
 
-![History](history.jpg)
+![History](screenshots/history.jpg)
 
 ### SCI dropdown
 

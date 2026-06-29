@@ -24,7 +24,7 @@ Built with React Native and Expo
 
 ### SCI dropdown
 
-![sci_dropdown](sci_dropdown.jpg)
+![sci_dropdown](screenshots/sci_dropdown.jpg)
 
 ## Tech Stack
 React Native

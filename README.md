@@ -16,7 +16,7 @@ Built with React Native and Expo
 
 ### Scientific Calculator
 
-![Scientific Calculator](calculate.jpg)
+![Scientific Calculator](screenshots/calculate.jpg)
 
 ### History
 
